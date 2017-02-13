@@ -1,0 +1,21 @@
+1. various source of bigdata are enterprise data,public data,transactional data,social media,sensor data,historical data,geographical data
+banking related data etc.
+
+
+2.3 V's of big data are Volume-it is the amount of data which may be in terabytes or petabytes.
+                        Variety-it is the type of data which may be structured or unstructured or semi structured
+                         Velocity-it is the speed at which data is added it may be real time,batch etc.
+                         
+                         
+                         
+3.Horizontal scaling and vertical Scaling-
+                           Horizontal Scaling-In this type of scaling CPU power and storage space is increased in a single machine.
+                           Vertical Scaling- in this type of approach data is divided and distributed to multiple server or machines.
+                           
+                           
+                           
+4. Need and Working of Hadoop-
+                             Hadoop is an open source platform which provide excellent data management provision.
+                             it is designed to expand from single server to thousand of machines,
+                             each providing computation and storage.
+                         
